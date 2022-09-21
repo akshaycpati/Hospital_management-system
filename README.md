@@ -1,1 +1,1 @@
-# Hospital_management-system
+This is instruction file
